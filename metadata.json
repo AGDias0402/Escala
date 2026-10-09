@@ -1,0 +1,6 @@
+{
+  "name": "EscalaFácil - Gestão & Visualização de Escalas",
+  "description": "Aplicativo mobile para consulta de escalas operacionais por colaboradores e edição exclusiva com controle de acesso por gestores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
